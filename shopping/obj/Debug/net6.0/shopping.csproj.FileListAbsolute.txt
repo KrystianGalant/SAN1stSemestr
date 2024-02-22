@@ -1,0 +1,14 @@
+C:\Users\Krystian Galant\source\repos\shopping\bin\Debug\net6.0\shopping.exe
+C:\Users\Krystian Galant\source\repos\shopping\bin\Debug\net6.0\shopping.deps.json
+C:\Users\Krystian Galant\source\repos\shopping\bin\Debug\net6.0\shopping.runtimeconfig.json
+C:\Users\Krystian Galant\source\repos\shopping\bin\Debug\net6.0\shopping.dll
+C:\Users\Krystian Galant\source\repos\shopping\bin\Debug\net6.0\shopping.pdb
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.AssemblyInfoInputs.cache
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.AssemblyInfo.cs
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.csproj.CoreCompileInputs.cache
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.dll
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\refint\shopping.dll
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.pdb
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\shopping.genruntimeconfig.cache
+C:\Users\Krystian Galant\source\repos\shopping\obj\Debug\net6.0\ref\shopping.dll
